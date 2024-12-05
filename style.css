@@ -65,6 +65,9 @@ article{
     height: 100%;
     margin-top: 15px;
 }
+#bordeverde p{
+    padding: 10px;
+}
 img{
     height: 100%;
     margin-right: auto;
