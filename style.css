@@ -81,7 +81,8 @@ p{
     text-align: center;
     font-family: "Raleway", sans-serif;
 }
-#proyectos{
+h2{
     font-family: "Raleway", sans-serif;
-    font-family: 'Lobster', cursive;
+   font-style: italic;
+    color: lightgreen;
 }
